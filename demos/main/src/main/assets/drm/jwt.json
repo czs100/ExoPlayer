@@ -1,0 +1,5 @@
+{
+  "jwt_drm_server_url": "http://192.168.3.112:81/jwt/createToken",
+  "jwt_user_name": "test1",
+  "jwt_user_password": "password1"
+}

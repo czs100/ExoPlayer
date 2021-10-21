@@ -1,0 +1,8 @@
+{
+  "provisionUrl": "http://192.168.3.112:81/prv",
+  "watermarkRegisterURL": "http://drm.secureve.cn/watermark/register",
+  "watermarkBootURL": "http://watermark.secureve.cn:8042",
+  "watermarkContentIDHidden": "networkContentId002",
+  "watermarkContentIDVisible": "networkContentId003",
+  "watermarkSiteID": "23301"
+}
